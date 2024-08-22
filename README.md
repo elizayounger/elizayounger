@@ -1,11 +1,24 @@
-![GitHub Banner](https://github.com/elizayounger/elizayounger/blob/main/githubProfileBanner.png)
+![GitHub Banner](https://github.com/elizayounger/elizayounger/blob/main/media/githubProfileBanner2.png)
 
 ## Hi there, I'm Eliza 👋 
 
-<h4> Connect with me: </h4>
-- [Website](https://elizayounger.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/eliza-y-73928283/)
-- [Email](mailto:elizayounger@hotmail.co.uk)
+<h4>Connect with me:</h4>
+
+- <a href="https://elizayounger.github.io/" target="_blank">
+    <img src="https://github.com/elizayounger/elizayounger/blob/main/media/webicon.jpg" alt="Website" style="width: 24px; height: 24px;">
+  </a>
+  [Website]
+  
+- <a href="https://www.linkedin.com/in/eliza-y-73928283/" target="_blank">
+    <img src="https://github.com/elizayounger/elizayounger/blob/main/media/linkedin.png" alt="LinkedIn" style="width: 24px; height: 24px;">
+  </a>
+  [LinkedIn]
+  
+- <a href="mailto:elizayounger@hotmail.co.uk">
+    <img src="https://github.com/elizayounger/elizayounger/blob/main/media/email.png" alt="Email" style="width: 24px; height: 24px;">
+  </a>
+  [Email]
+
 
 <h4> I'm currently working on </h4>
 - Java
