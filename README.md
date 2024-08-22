@@ -1,5 +1,3 @@
-![GitHub Banner](https://github.com/elizayounger/elizayounger/blob/main/media/githubProfileBanner2.png)
-
 <h1 align="center">Hi 👋, I'm Eliza Younger</h1>
 <h3 align="center">A passionate software engineer from Scotland</h3>
 
@@ -21,7 +19,7 @@
 
 - 📫 How to reach me **elizayounger@hotmail.co.uk**
 
-- ⚡ Fun fact **I play the Scottish harp**
+- ⚡ Fun fact **I play the Scottish Harp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
