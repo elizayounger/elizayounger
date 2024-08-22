@@ -3,21 +3,20 @@
 ## Hi there, I'm Eliza 👋 
 
 <h4>Connect with me:</h4>
-
-- <a href="https://elizayounger.github.io/" target="_blank">
+<a href="https://elizayounger.github.io/" target="_blank">
+    <p>Website</p>
     <img src="https://github.com/elizayounger/elizayounger/blob/main/media/webicon.jpg" alt="Website" style="width: 24px; height: 24px;">
-  </a>
-  [Website]
+</a>
   
-- <a href="https://www.linkedin.com/in/eliza-y-73928283/" target="_blank">
+<a href="https://www.linkedin.com/in/eliza-y-73928283/" target="_blank">
+    <p>LinkedIn</p>
     <img src="https://github.com/elizayounger/elizayounger/blob/main/media/linkedin.png" alt="LinkedIn" style="width: 24px; height: 24px;">
-  </a>
-  [LinkedIn]
+</a>
   
-- <a href="mailto:elizayounger@hotmail.co.uk">
+<a href="mailto:elizayounger@hotmail.co.uk">
+    <p>Email</p>
     <img src="https://github.com/elizayounger/elizayounger/blob/main/media/email.png" alt="Email" style="width: 24px; height: 24px;">
-  </a>
-  [Email]
+</a>
 
 
 <h4> I'm currently working on </h4>
