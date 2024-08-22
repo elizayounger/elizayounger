@@ -1,5 +1,7 @@
 ![GitHub Banner](https://github.com/elizayounger/elizayounger/blob/main/githubProfileBanner.png)
 
+<img width=”200" height=”200" src=”https://github.com/elizayounger/elizayounger/blob/main/githubProfileBanner.png" alt=”my banner”>
+
 ## Hi there, I'm Eliza 👋
 
 <h4> Connect with me: </h4>
