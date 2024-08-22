@@ -1,4 +1,4 @@
-![GitHub Banner](link-to-your-image/GitHubProfileBanner.png)
+![GitHub Banner](https://github.com/elizayounger/elizayounger/blob/main/githubProfileBanner.png)
 
 ## Hi there, I'm Eliza 👋
 
