@@ -3,20 +3,30 @@
 ## Hi there, I'm Eliza 👋 
 
 <h4>Connect with me:</h4>
-<a href="https://elizayounger.github.io/" target="_blank">
-    <p>Website</p>
-    <img src="https://github.com/elizayounger/elizayounger/blob/main/media/webicon.jpg" alt="Website" style="width: 24px; height: 24px;">
-</a>
+
+<div style="display: flex; align-items: center; gap: 15px;">
+    <a href="https://elizayounger.github.io/" target="_blank" style="text-decoration: none; color: inherit;">
+        <div style="display: flex; align-items: center; gap: 5px;">
+            <img src="https://github.com/elizayounger/elizayounger/blob/main/media/webicon.jpg" alt="Website" style="width: 24px; height: 24px;">
+            <p style="margin: 0;">Website</p>
+        </div>
+    </a>
   
-<a href="https://www.linkedin.com/in/eliza-y-73928283/" target="_blank">
-    <p>LinkedIn</p>
-    <img src="https://github.com/elizayounger/elizayounger/blob/main/media/linkedin.png" alt="LinkedIn" style="width: 24px; height: 24px;">
-</a>
+    <a href="https://www.linkedin.com/in/eliza-y-73928283/" target="_blank" style="text-decoration: none; color: inherit;">
+        <div style="display: flex; align-items: center; gap: 5px;">
+            <img src="https://github.com/elizayounger/elizayounger/blob/main/media/linkedin.png" alt="LinkedIn" style="width: 24px; height: 24px;">
+            <p style="margin: 0;">LinkedIn</p>
+        </div>
+    </a>
   
-<a href="mailto:elizayounger@hotmail.co.uk">
-    <p>Email</p>
-    <img src="https://github.com/elizayounger/elizayounger/blob/main/media/email.png" alt="Email" style="width: 24px; height: 24px;">
-</a>
+    <a href="mailto:elizayounger@hotmail.co.uk" style="text-decoration: none; color: inherit;">
+        <div style="display: flex; align-items: center; gap: 5px;">
+            <img src="https://github.com/elizayounger/elizayounger/blob/main/media/email.png" alt="Email" style="width: 24px; height: 24px;">
+            <p style="margin: 0;">Email</p>
+        </div>
+    </a>
+</div>
+
 
 
 <h4> I'm currently working on </h4>
