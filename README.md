@@ -1,9 +1,6 @@
-
-<div align="center"> 
 ![GitHub Banner](https://github.com/elizayounger/elizayounger/blob/main/githubProfileBanner.png)
 
 ## Hi there, I'm Eliza 👋 
-</div>
 
 <h4> Connect with me: </h4>
 - [Website](https://elizayounger.github.io/)
